@@ -1,0 +1,15 @@
+.banner{
+    background-image: url('https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    height: 500px;
+}
+.btn-text:hover{
+    background-color: rgb(52, 52, 148);
+    color: white;
+}
+.text-color{
+    color: cyan
+}
